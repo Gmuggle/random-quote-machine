@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/random-quote-machine/static/css/main.54cf6238.chunk.css",
+    "main.js": "/random-quote-machine/static/js/main.855a61f2.chunk.js",
+    "main.js.map": "/random-quote-machine/static/js/main.855a61f2.chunk.js.map",
+    "runtime-main.js": "/random-quote-machine/static/js/runtime-main.e239717d.js",
+    "runtime-main.js.map": "/random-quote-machine/static/js/runtime-main.e239717d.js.map",
+    "static/css/2.ae19aa97.chunk.css": "/random-quote-machine/static/css/2.ae19aa97.chunk.css",
+    "static/js/2.37f4a96c.chunk.js": "/random-quote-machine/static/js/2.37f4a96c.chunk.js",
+    "static/js/2.37f4a96c.chunk.js.map": "/random-quote-machine/static/js/2.37f4a96c.chunk.js.map",
+    "index.html": "/random-quote-machine/index.html",
+    "precache-manifest.f7236a454ecf16888758a40df9f295f7.js": "/random-quote-machine/precache-manifest.f7236a454ecf16888758a40df9f295f7.js",
+    "service-worker.js": "/random-quote-machine/service-worker.js",
+    "static/css/2.ae19aa97.chunk.css.map": "/random-quote-machine/static/css/2.ae19aa97.chunk.css.map",
+    "static/css/main.54cf6238.chunk.css.map": "/random-quote-machine/static/css/main.54cf6238.chunk.css.map",
+    "static/media/font-awesome.min.css": "/random-quote-machine/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.min.css": "/random-quote-machine/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e239717d.js",
+    "static/css/2.ae19aa97.chunk.css",
+    "static/js/2.37f4a96c.chunk.js",
+    "static/css/main.54cf6238.chunk.css",
+    "static/js/main.855a61f2.chunk.js"
+  ]
+}
